@@ -6,4 +6,4 @@ To use:
 
 An output image will be saved to the output_images folder.
 
-![output image example](./output_images/"MA Slack Messages All Time (01142021).jpg")
+[output image example](./output_images/"MA Slack Messages All Time (01142021).jpg")
